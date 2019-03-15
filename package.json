@@ -1,0 +1,41 @@
+{
+  "name": "cordova.camera.permission",
+  "version": "1.0.5",
+  "description": "Cordova/Phonegap plugin to check the state of Camera Permissions.",
+  "cordova": {
+    "id": "cordova.camera.permission",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TylerKuster/cordova.camera.access.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=7.1.0"
+    },
+    {
+      "name": "cordova-android",
+      "version": ">=6.3.0"
+    },
+    {
+      "name": "cordova-ios",
+      "version": ">=4.3.0"
+    }
+  ],
+  "author": "Tyler Kuster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TylerKuster/cordova.camera.access/issues"
+  },
+  "homepage": "https://github.com/TylerKuster/cordova.camera.access#readme"
+}
